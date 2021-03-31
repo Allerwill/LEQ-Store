@@ -16,14 +16,22 @@ body {
 }
 
 a {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
+<<<<<<< HEAD
   color: #18d36e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   outline: none;
   text-decoration: none;
 }
@@ -50,7 +58,11 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   color: #fff;
   width: 44px;
   height: 44px;
@@ -88,7 +100,11 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
+<<<<<<< HEAD
   border-top: 6px solid #18d26e;
+=======
+  border-top: 6px solid #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -160,7 +176,11 @@ h6 {
 #header #logo h1 a:hover {
   color: #fff;
   padding-left: 10px;
+<<<<<<< HEAD
   border-left: 4px solid #18d26e;
+=======
+  border-left: 4px solid #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #header #logo img {
@@ -297,12 +317,20 @@ h6 {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #intro .btn-get-started:hover {
   background: #fff;
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 /*--------------------------------------------------------------
@@ -391,7 +419,11 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu > .menu-active > a {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 .nav-menu > li {
@@ -419,7 +451,11 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 .nav-menu ul ul {
@@ -488,7 +524,11 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #mobile-nav ul li li {
@@ -496,7 +536,11 @@ h6 {
 }
 
 #mobile-nav ul li.menu-active a {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #mobile-nav ul .menu-has-children i {
@@ -509,7 +553,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #mobile-nav ul .menu-has-children li a {
@@ -517,7 +565,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-item-active {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #mobile-body-overly {
@@ -579,7 +631,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 40px;
   height: 3px;
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -613,7 +669,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #featured-services i {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -630,7 +690,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #featured-services h4 a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #featured-services p {
@@ -687,7 +751,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 8px;
   text-align: center;
   position: absolute;
+<<<<<<< HEAD
   background-color: #18d26e;
+=======
+  background-color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   border-radius: 50%;
   text-align: center;
   border: 4px solid #fff;
@@ -708,7 +776,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col:hover i {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #about .about-col h2 {
@@ -725,7 +797,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col h2 a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #about .about-col p {
@@ -754,7 +830,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .icon i {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   font-size: 36px;
   line-height: 1;
   transition: 0.5s;
@@ -772,7 +852,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box:hover .title a {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #services .description {
@@ -817,8 +901,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn:hover {
+<<<<<<< HEAD
   background: #18d26e;
   border: 2px solid #18d26e;
+=======
+  background: #a3001b !important;
+  border: 2px solid #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 /* Call To Action Section
@@ -884,7 +973,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
   font-size: 48px;
   display: block;
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #facts .counters p {
@@ -931,7 +1024,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   color: #fff;
 }
 
@@ -991,7 +1088,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure .link-preview:hover,
 #portfolio .portfolio-item figure .link-details:hover {
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #portfolio .portfolio-item figure .link-preview:hover i,
@@ -1040,7 +1141,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #portfolio .portfolio-item .portfolio-info p {
@@ -1086,7 +1191,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #clients .owl-dot.active {
+<<<<<<< HEAD
   background-color: #18d26e;
+=======
+  background-color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 /* Testimonials Section
@@ -1160,7 +1269,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
+<<<<<<< HEAD
   background-color: #18d26e;
+=======
+  background-color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 /* Team Section
@@ -1240,7 +1353,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #team .member .social i {
@@ -1264,7 +1381,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #contact .contact-info address,
@@ -1286,7 +1407,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #contact .contact-address,
@@ -1296,8 +1421,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
+<<<<<<< HEAD
   color: #18d26e;
   border: 1px solid #18d26e;
+=======
+  color: #a3001b !important;
+  border: 1px solid #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   display: none;
   text-align: center;
   padding: 15px;
@@ -1338,7 +1468,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1378,7 +1512,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
+<<<<<<< HEAD
   border-left: 4px solid #18d26e;
+=======
+  border-left: 4px solid #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #footer .footer-top .footer-info p {
@@ -1405,7 +1543,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   color: #fff;
 }
 
@@ -1433,7 +1575,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top h4::after {
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   width: 60px;
 }
 
@@ -1466,7 +1612,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
+<<<<<<< HEAD
   color: #18d26e;
+=======
+  color: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
 }
 
 #footer .footer-top .footer-contact {
@@ -1488,7 +1638,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
+<<<<<<< HEAD
   background: #18d26e;
+=======
+  background: #a3001b !important;
+>>>>>>> parent of ba83dfd (upt st)
   border: 0;
   width: 35%;
   padding: 6px 0;
