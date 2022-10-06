@@ -174,16 +174,16 @@
   });
 
   // Porfolio isotope and filter
-  var portfolioIsotope = $('.portfolio-container').isotope({
-    itemSelector: '.portfolio-item',
+  var productIsotope = $('.product-container').isotope({
+    itemSelector: '.product-item',
     layoutMode: 'fitRows'
   });
 
-  $('#portfolio-flters li').on( 'click', function() {
-    $("#portfolio-flters li").removeClass('filter-active');
+  $('#product-flters li').on( 'click', function() {
+    $("#product-flters li").removeClass('filter-active');
     $(this).addClass('filter-active');
 
-    portfolioIsotope.isotope({ filter: $(this).data('filter') });
+    productIsotope.isotope({ filter: $(this).data('filter') });
   });
 
   // Clients carousel (uses the Owl Carousel library)
